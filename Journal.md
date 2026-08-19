@@ -42,6 +42,26 @@ here i use 1 bulk capacitor and 1 ceramic capacitor with each led this one also 
 This took around 2 hr as i placed 61 keys , capacitors , diodes and leds
 ohh no when i see i need display, encoder and function btn too but now i dont have gpio pin of nice nano to connect my things i need to search about it
 
+19 Augest 8AM - 10AM (2HR)
+
+After few search and findings i made my matrix small now it is 8 x 8 means 8 rows with 8 coloumns using 16 gpio pins of nice nano and oled matrix was 14 x 5 using 19 gpio pins of nice nano with no encoder so i saved 3 pin
+
+<img width="474" height="661" alt="image" src="https://github.com/user-attachments/assets/b29d83e9-c949-4c41-9fe1-f9dc89cde321" />
+now this is 8 x 8 and include 61 keys of keyboard and one encoder
+
+and i still have few pins left so i add a oled display
+<img width="375" height="275" alt="image" src="https://github.com/user-attachments/assets/97cb640e-89c2-43c5-89e1-164ad0ab8564" />
+
+i am trying to make a wireless keyboard so i searched for resources this is what i find this is for split keyboard but still helpfull
+<img width="714" height="635" alt="image" src="https://github.com/user-attachments/assets/fbde6394-ce88-490b-a174-58f308eed9d8" />
+
+
+<img width="1035" height="462" alt="image" src="https://github.com/user-attachments/assets/4ad58056-b887-41f4-85a7-456a8b819d9e" />
+my connection of nice nano , olded and battry connector and on off switch
+
+
+
+
 
 
 
