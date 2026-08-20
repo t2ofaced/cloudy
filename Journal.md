@@ -59,6 +59,15 @@ i am trying to make a wireless keyboard so i searched for resources this is what
 <img width="1035" height="462" alt="image" src="https://github.com/user-attachments/assets/4ad58056-b887-41f4-85a7-456a8b819d9e" />
 my connection of nice nano , olded and battry connector and on off switch
 
+20 Aug 2026 9AM - 11AM
+
+I started component placement today and i am stuck with placing keyswitch footprint at correct place (placing keyswitches in a row or coloumn) tutorial say use grid size 19.05 but that not worked for me then i did grid size of 19.05/8 and then it worked so i placed my keyswitchs , nice nano and display
+
+<img width="1186" height="424" alt="image" src="https://github.com/user-attachments/assets/49a9634f-d173-40ad-a507-266f16d36983" />
+i also placed diodes on bottom side to save space on top so it is easy to wire them later
+
+<img width="1292" height="430" alt="image" src="https://github.com/user-attachments/assets/89fb3dba-e458-4834-8ade-35833d1e6537" />
+after that i placed all the capacitor and skmini led on bottom side , i started with top placement but i find out that they are bottom mounted
 
 
 
