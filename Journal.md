@@ -71,6 +71,21 @@ after that i placed all the capacitor and skmini led on bottom side , i started 
 
 
 
+25 Aug 2026 8 - 12 AM
 
 
+<img width="1393" height="519" alt="image" src="https://github.com/user-attachments/assets/9ee94542-e761-4509-9c4e-f21cb802d93c" />
 
+thing got bad here because of my key matrix so now its hard to route
+
+<img width="1179" height="436" alt="image" src="https://github.com/user-attachments/assets/bc06e081-6314-4c58-b239-9873b0fd1b70" />
+then i routed keyswitches , led capacitors with eachother and it is hard because of my 8x8 matrix so i used bottom layer for routing row, led, diodes, capacitor and resistor and routing coloumns on top layer, it is like connect two wires vertically use top layer , if horizontally use bottom layer
+
+i will say use 14x5 matrix routing will be easy
+
+<img width="923" height="596" alt="image" src="https://github.com/user-attachments/assets/12d5e3ca-80b8-4979-bcb2-936f48289a59" />
+then i connect routed nice nano with help of this
+<img width="993" height="673" alt="image" src="https://github.com/user-attachments/assets/af27ce58-9017-4fbd-9b1d-adcf8f182d14" />
+
+<img width="1494" height="527" alt="image" src="https://github.com/user-attachments/assets/6ab2880d-c839-43ff-9812-78da712dac6b" />
+completed with jst connector for battery and a slider tu turn on and off
