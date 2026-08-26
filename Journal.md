@@ -89,3 +89,33 @@ then i connect routed nice nano with help of this
 
 <img width="1494" height="527" alt="image" src="https://github.com/user-attachments/assets/6ab2880d-c839-43ff-9812-78da712dac6b" />
 completed with jst connector for battery and a slider tu turn on and off
+
+
+26 AUG 2026 9-11
+
+
+<img width="796" height="540" alt="image" src="https://github.com/user-attachments/assets/d0f6e992-d33f-4b60-9cc3-ebe422f40572" />
+SO I poured GND on my top and bottom layer
+<img width="1366" height="562" alt="image" src="https://github.com/user-attachments/assets/c14be00e-83dd-438d-8e44-30f6798970e7" />
+<img width="236" height="323" alt="image" src="https://github.com/user-attachments/assets/e0b314bd-1b41-41d2-9f3f-7db48d105af0" />
+as u see a small area is left on bottom side of nice nano because of that red thing on nice nano that act as a anteena
+
+<img width="1204" height="566" alt="image" src="https://github.com/user-attachments/assets/a4a8a81a-ae4e-4cab-9ff4-b9b794cadd8e" />
+<img width="996" height="393" alt="image" src="https://github.com/user-attachments/assets/76b5257e-324c-4df2-8d04-271cd05c64ee" />
+size of my keyboard
+
+
+<img width="799" height="606" alt="image" src="https://github.com/user-attachments/assets/56f60bd9-b186-41be-8232-af214facb9ee" />
+<img width="612" height="474" alt="image" src="https://github.com/user-attachments/assets/f2c79fec-cb9d-4be3-bef8-7fa5e6281e88" />
+
+i got this error but i think this is issue of footprint 
+
+<img width="1144" height="224" alt="image" src="https://github.com/user-attachments/assets/dcfe3690-8b0b-4b99-b637-6d74e1efd96f" />
+<img width="1043" height="678" alt="image" src="https://github.com/user-attachments/assets/f064c2cb-5fc2-4b80-b5da-9979e6e3eec4" />
+<img width="1289" height="243" alt="image" src="https://github.com/user-attachments/assets/6a1b00ea-e7ed-4ee0-83d9-3bfb424337e5" />
+i read some documentation and found out we need to short rst with gnd to programe it so i do that
+<img width="649" height="329" alt="Screenshot 2026-05-28 235440" src="https://github.com/user-attachments/assets/72009db4-d37a-45af-9d06-9fa4d2371d13" />
+
+
+
+
