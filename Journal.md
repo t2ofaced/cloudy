@@ -131,6 +131,9 @@ overall
 
 then i add other thing display , nano and other modal
 
+<img width="1308" height="507" alt="image" src="https://github.com/user-attachments/assets/272dce06-2241-494e-a175-4bf22d45a07f" />
+
+
 
 
 
