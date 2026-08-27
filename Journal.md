@@ -116,6 +116,25 @@ i got this error but i think this is issue of footprint
 i read some documentation and found out we need to short rst with gnd to programe it so i do that
 <img width="649" height="329" alt="Screenshot 2026-05-28 235440" src="https://github.com/user-attachments/assets/72009db4-d37a-45af-9d06-9fa4d2371d13" />
 
+27 AUG 2026 8 - 9
+
+<img width="813" height="681" alt="image" src="https://github.com/user-attachments/assets/408e8264-0337-47f4-b5ed-6d42bf26b647" />
+Added 3d modal
+<img width="1114" height="715" alt="image" src="https://github.com/user-attachments/assets/34f5cbc3-bb4f-4674-806b-6c653d0bc340" />
+this have 2 pins on place of my led i think this modal internally include leds so i change this to
+
+<img width="404" height="648" alt="image" src="https://github.com/user-attachments/assets/ad92c349-0c27-4e25-9b6c-f86690e0b3f6" />
+this is new modal
+
+<img width="1356" height="503" alt="image" src="https://github.com/user-attachments/assets/bf9733c1-2136-4320-8baa-a14401b4de64" />
+overall
+
+then i add other thing display , nano and other modal
+
+
+
+
+
 
 
 
