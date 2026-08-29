@@ -133,6 +133,39 @@ then i add other thing display , nano and other modal
 
 <img width="1308" height="507" alt="image" src="https://github.com/user-attachments/assets/272dce06-2241-494e-a175-4bf22d45a07f" />
 
+29 Aug 2026 4 hr
+
+<img width="1399" height="533" alt="image" src="https://github.com/user-attachments/assets/645e2e9a-0ee0-488f-821f-8094fc35f15a" />
+added random silkscreen quotes
+
+<img width="1041" height="664" alt="image" src="https://github.com/user-attachments/assets/75f818dc-1cf1-465f-833e-a60b2a112a85" />
+then i export 3d file step of this keyboard and import in onshape so that i can desigin my encloser case around it
+
+<img width="1374" height="589" alt="image" src="https://github.com/user-attachments/assets/4d1dd9e4-4caa-4ec7-8263-c9b02034be21" />
+
+
+<img width="1483" height="694" alt="image" src="https://github.com/user-attachments/assets/303c6a77-133b-45f6-96e5-6fa2a58be81d" />
+after imorting in onshape i make a plane just below the top plane and then using project tool make a base for pcb
+
+<img width="1458" height="686" alt="image" src="https://github.com/user-attachments/assets/3336ce91-e14c-4a61-aeb8-117f4b3ab78a" />
+i also projected walls and mounting holes on this plane by project tool and pcb 
+
+<img width="1308" height="636" alt="image" src="https://github.com/user-attachments/assets/49845d31-3c12-4d4a-a02d-95a68901913f" />
+this is base or bottom part of my keyboard with extruted mounting holes this will make pcb float 
+
+<img width="1379" height="662" alt="image" src="https://github.com/user-attachments/assets/70215568-4f5c-4ce5-9ea7-edc9abb89050" />
+then i added keycap modals as it was difficult to work with raw keyswitches so this is my keyboard with electronics and base
+
+<img width="1563" height="736" alt="image" src="https://github.com/user-attachments/assets/9df28671-c388-4f2c-8559-9d884858a861" />
+then i make a sketch above top plane according to my pcb leaving space for keycaps encoder and display 
+<img width="1526" height="745" alt="image" src="https://github.com/user-attachments/assets/24b09d86-0c1b-4a5d-9514-b78a7ec4a3be" />
+this is top plate
+<img width="1417" height="750" alt="image" src="https://github.com/user-attachments/assets/4742eb5a-8143-4d54-9bb6-5524fdedfaba" />
+top plate with pcb
+<img width="1536" height="773" alt="image" src="https://github.com/user-attachments/assets/0569ba1e-82fe-4942-a31d-891efe1484b5" />
+whole thing together
+
+
 
 
 
