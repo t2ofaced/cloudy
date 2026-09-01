@@ -168,9 +168,35 @@ whole thing together
 
 
 
+1 Sep 2026 9 - 1 4 hr
+
+so i forget about type c hole in my keyboard case so i did that
+<img width="1301" height="625" alt="image" src="https://github.com/user-attachments/assets/bb0f2693-0052-4b2e-8bb0-4410f7d3b0c5" />
+<img width="1395" height="625" alt="image" src="https://github.com/user-attachments/assets/858783bb-aa6a-426a-a753-84b3c7bd97ec" />
+
+then i searched about firmware first i thought i will go with zmk as it is popular and nice nano suggest this
 
 
 
+<img width="1162" height="625" alt="image" src="https://github.com/user-attachments/assets/3a529ef0-a082-4a09-8f13-515bc171b362" />
+<img width="999" height="667" alt="image" src="https://github.com/user-attachments/assets/e6e022d8-4ee4-4f3d-aeb5-7df57ecbf0fd" />
 
+but keeb website sugeests rmk so i searched about that too and i decided to move on with rmk
 
+<img width="828" height="668" alt="image" src="https://github.com/user-attachments/assets/12af6669-3255-417e-abc0-0e5d664caf16" />
+i used this rmk project template repo on github i used it as a template and made a new github repo
+<img width="1348" height="639" alt="image" src="https://github.com/user-attachments/assets/06b8dff2-4517-422c-a2fa-e838ee467fe0" />
+<img width="1173" height="634" alt="image" src="https://github.com/user-attachments/assets/d910592b-565c-4181-aecf-a54fcf5de0e8" />
+default config of this file
+i updated it according to my config 
+<img width="796" height="571" alt="image" src="https://github.com/user-attachments/assets/524037ac-521c-4df9-a604-9263c5a147a8" />
+<img width="1413" height="941" alt="image" src="https://github.com/user-attachments/assets/51c1f294-eaf4-41ca-b779-1d50ffaf346b" />
 
+<img width="1401" height="459" alt="image" src="https://github.com/user-attachments/assets/8e1f6d52-59ba-423a-8dee-1f85c7948014" />
+gave error and i debug it
+
+<img width="1131" height="648" alt="image" src="https://github.com/user-attachments/assets/77982ccf-fd98-4d72-9847-8cdc20b9e6e9" />
+some spelling error it was
+
+<img width="1188" height="664" alt="image" src="https://github.com/user-attachments/assets/a98a37b7-c37f-42b1-8ec9-a7e678aa28bc" />
+so now it is completed uf2 file is actual firmware 
