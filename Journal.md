@@ -200,3 +200,14 @@ some spelling error it was
 
 <img width="1188" height="664" alt="image" src="https://github.com/user-attachments/assets/a98a37b7-c37f-42b1-8ec9-a7e678aa28bc" />
 so now it is completed uf2 file is actual firmware 
+
+5 sep 2026 10:30 - 12 1.5 hr
+
+so first i search all the component i need and made a bom.csv and put all the component and price in the bom.csv file 
+<img width="1519" height="925" alt="image" src="https://github.com/user-attachments/assets/0d4d7f15-5a03-4ea5-886f-e0bbe36eda2b" />
+
+and when i was searching component i found that my bulk cap need some space so i removed some part of my top plate
+<img width="807" height="382" alt="image" src="https://github.com/user-attachments/assets/1de23a02-4ab6-4358-b80f-e7c08dfd65e1" />
+<img width="647" height="553" alt="image" src="https://github.com/user-attachments/assets/60a734d4-6d65-4ece-8c61-f70a7e2b8485" />
+<img width="506" height="340" alt="image" src="https://github.com/user-attachments/assets/1d8d362b-1c4f-4008-a112-b988dce89eec" />
+and then exported and updated my repo
