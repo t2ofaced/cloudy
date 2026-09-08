@@ -42,15 +42,18 @@ routed pcb
 
 ## CAD & Case Design
 
-Mechanical part / CAD is desigined in Onshape - https://cad.onshape.com/documents/02d1cc1f7ec3e59871e42e68/w/e27206701595b8be94d4fc96/e/d50220b72c1b89afdf243eaf
+Mechanical part / CAD is desigined in 4 parts 2 each for Top plate and Base plate it is in 4 parts so  that it can be printed easily
+Onshape - https://cad.onshape.com/documents/02d1cc1f7ec3e59871e42e68/w/e27206701595b8be94d4fc96/e/d50220b72c1b89afdf243eaf
 
-<img width="1341" height="612" alt="image" src="https://github.com/user-attachments/assets/cfaa2bef-b33f-4026-ae58-4c86eac65462" />  
+<img width="1199" height="582" alt="image" src="https://github.com/user-attachments/assets/de278573-ab52-4b2a-9216-6b5688876a87" />
+  
 <br>
 keyboard with base plate
 
 <br>
 
-<img width="1388" height="646" alt="image" src="https://github.com/user-attachments/assets/623b7de8-1034-4401-9a3f-7b99aa047225" />  
+<img width="1110" height="530" alt="image" src="https://github.com/user-attachments/assets/0f233339-f049-40fb-ada0-dcc2f648fdf3" />
+
 <br>
 keyboard with top plate
 
@@ -58,6 +61,7 @@ keyboard with top plate
 
 ## Final Assembly
 
-<img width="1529" height="734" alt="image" src="https://github.com/user-attachments/assets/08d34904-4f1e-4b54-8873-4aaf3c082d2e" />  
+<img width="1267" height="586" alt="image" src="https://github.com/user-attachments/assets/a8c97570-31ca-4f27-b341-fbee216e8ec3" />
+
 <br>
 fully assembled
