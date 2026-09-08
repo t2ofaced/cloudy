@@ -274,3 +274,44 @@ and when i was searching component i found that my bulk cap need some space so i
 
 and then exported and updated my repo 
 also made my Journal better
+
+
+### 08 September 2026 | 3:00 PM - 6:00 PM (3 hrs)
+
+So i found that my keyboard is too big to print in most common 3d printers so i sliced it in 2 parts so now i have total 4 parts 2 for top plate and 2 for base plate
+
+<img width="1305" height="558" alt="image" src="https://github.com/user-attachments/assets/d084eca7-90e6-4bff-b460-831b2b36a7cf" />
+This is Base-A left part of Base plate
+
+<img width="1201" height="518" alt="image" src="https://github.com/user-attachments/assets/365d9750-9625-4185-ac72-d6c2620c7d49" />
+This is Base-B right part of Base plate
+
+<img width="1217" height="604" alt="image" src="https://github.com/user-attachments/assets/192cd7f3-b401-4165-b982-cf305629d441" />
+This is Base plate A and B part with each other
+
+<img width="1415" height="809" alt="image" src="https://github.com/user-attachments/assets/a88b9afe-a3ac-4d48-9b48-669ce90531bf" />
+This thing holds the A and B part with each other 
+
+
+<img width="1157" height="529" alt="image" src="https://github.com/user-attachments/assets/4eedcdd9-2eb3-44de-b47d-589b3bb0dbba" />
+This is Top-A left part of Top plate
+
+<img width="1289" height="625" alt="image" src="https://github.com/user-attachments/assets/b26e20c6-dbda-4898-8304-31f29fbd0d00" />
+This is Top-A left part of Top plate
+
+<img width="1368" height="669" alt="image" src="https://github.com/user-attachments/assets/263f44bd-bc6d-43c9-9467-01b2a132519c" />
+This is Top plate A and B part with each other
+
+<img width="1173" height="603" alt="image" src="https://github.com/user-attachments/assets/1b5bc090-fb96-45f2-a696-b6c9a780a963" />
+This thing holds the A and B part with each other 
+
+I hope this is the final change and update in this model
+
+
+<img width="869" height="598" alt="image" src="https://github.com/user-attachments/assets/c25d1d5d-775c-4613-ab9f-7275df9d2d40" />
+<img width="720" height="591" alt="image" src="https://github.com/user-attachments/assets/b8f3ea33-c7bb-4132-b40e-2b181260596d" />
+
+afther that i reviwed PCB routing and made some high current track thick
+
+<img width="1258" height="688" alt="image" src="https://github.com/user-attachments/assets/225493bd-a8c8-442d-b0c4-d6f5b353202c" />
+final one more rule check and manual review and done
