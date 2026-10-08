@@ -65,3 +65,26 @@ keyboard with top plate
 
 <br>
 fully assembled
+
+
+# Bill of Materials
+
+| Part Name | Quantity | Link | Info | Price (USD) |
+|---|---|---|---|---|
+| JLCPCB PCB Manufacturing & Shipping | 1 | [Link](https://jlcpcb.com/) | PCB | $35 |
+| 0.96 inch OLED Display | 1 | [Link](https://robu.in/product/0-96-oled-display-module/) | OLED display | $2.35 |
+| Tactile Switches | 7 sets | [Link](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/) | Switches | $26.3 |
+| NiceNanoV2 | 1 | [Link](https://robu.in/product/pro-micro-nrf52840-development-board-compatible-with-nicenano-v2-0/) | MCU | $8.67 |
+| 1N4148 Diodes | 70 | [Link](https://quartzcomponents.com/products/1n4148-zener-diodel) | Diodes | $2.22 |
+| Custom Keycaps | 1 | [Link](https://curiositycaps.in/products/comic-mixed-light-cherry-1-7mm-thick-pbt-keycaps) | Keycaps | $24.35 |
+| SK6812MINI-E SMD | 72 | [Link](https://www.etstore.in/products/e9974?variant=48993209319675&country=IN&currency=INR) | RGB LEDs | $9.73 |
+| LiPo Battery | 1 | [Link](https://robu.in/product/400mah-pcm-protected-micro-li-po-battery/) | 3.7V 400mAh 1S | $2.32 |
+| Disc Capacitor | 70 | [Link](https://robu.in/product/100nf-50v-disc-capacitor/) | 100nF 50V | $1 |
+| Aluminum Electrolytic Capacitors | 5 | [Link](https://robu.in/product/ers1am471e12ot-aishi-470uf-10v-%C2%B120-plugind6-3xl12mm-aluminum-electrolytic-capacitors-leaded-rohs/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWeqncwaNG3o_D6R6zCnwtxQC) | ERS1AM471E12OT-AISHI 470uF 10V ±20% Plugin | $0.5 |
+| Resistor 470 Ohms | 10 | [Link](https://www.ktron.in/product/resistor-470-ohms-0-25w-5-th/) | 470 Ohms 0.25W 5% TH | $0.2 |
+| Male Connector | 3 | [Link](https://robu.in/product/ph-aw-2mm-2-pin-wafer-male-connector-through-hole-right-angle/) | PH-AW 2mm 2 pin | $0.2 |
+| Rotary Encoder with Switch | 1 | [Link](https://robu.in/product/hongyan-ec11h-7ce20p1zd20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/) | EC11H 7CE20P1ZD20 5-Pin | $0.7 |
+| Slide Switch | 5 | [Link](https://robu.in/product/slide-switch-ss-12d07-1p2t/) | SS-12D07 1P2T | $0.2 |
+| Tactile Switch | 5 | [Link](https://robu.in/product/ws-a06-4-3-waterproof-tact-switch-4-pin6x6x4-3/) | 6x6x4.3mm 4 Pin | $0.2 |
+| Stabilizers | 5 | [Link](https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2) | 4+1 set | $16.93 |
+| **TOTAL** | | | | **~$131** |
