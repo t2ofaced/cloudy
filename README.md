@@ -74,7 +74,7 @@ fully assembled
 | JLCPCB PCB Manufacturing & Shipping | 1 | [Link](https://jlcpcb.com/) | PCB | $35 |
 | 0.96 inch OLED Display | 1 | [Link](https://robu.in/product/0-96-oled-display-module/) | OLED display | $2.35 |
 | Tactile Switches | 7 sets | [Link](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/) | Switches | $26.3 |
-| NiceNanoV2 | 1 | [Link](https://robu.in/product/pro-micro-nrf52840-development-board-compatible-with-nicenano-v2-0/) | MCU | $8.67 |
+| NiceNanoV2 | 1 | [Link](https://robu.in/product/pro-micro-nrf52840-development-board-compatible-with-nicenano-v2-0/) | MCU | i will buy my owm ($8.67) |
 | 1N4148 Diodes | 70 | [Link](https://quartzcomponents.com/products/1n4148-zener-diodel) | Diodes | $2.22 |
 | Custom Keycaps | 1 | [Link](https://curiositycaps.in/products/comic-mixed-light-cherry-1-7mm-thick-pbt-keycaps) | Keycaps | $24.35 |
 | SK6812MINI-E SMD | 72 | [Link](https://www.etstore.in/products/e9974?variant=48993209319675&country=IN&currency=INR) | RGB LEDs | $9.73 |
@@ -87,4 +87,4 @@ fully assembled
 | Slide Switch | 5 | [Link](https://robu.in/product/slide-switch-ss-12d07-1p2t/) | SS-12D07 1P2T | $0.2 |
 | Tactile Switch | 5 | [Link](https://robu.in/product/ws-a06-4-3-waterproof-tact-switch-4-pin6x6x4-3/) | 6x6x4.3mm 4 Pin | $0.2 |
 | Stabilizers | 5 | [Link](https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2) | 4+1 set | $16.93 |
-| **TOTAL** | | | | **~$131** |
+| **TOTAL** | | | | **~$124** |
