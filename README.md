@@ -2,6 +2,8 @@
 
 A custom designed 60% Keyboard this keyboard is the first diy / electronic project i made from scratch, so idea was simple i wanted a keyboard so i desigined one now hopefully i can assemble it too so this keyboard use nice nano v2 clone pro micro nrf52840 development board as it give me freedom of wireless kayboard this keyboard also includes 1 enoder and 1 display and it is fully rgb thanks to SK6812MINI-E SMD leds
 
+OnShape Link- https://cad.onshape.com/documents/02d1cc1f7ec3e59871e42e68/w/e27206701595b8be94d4fc96/e/017436c4cffd3847ba6185ca
+
 ---
 
 ## Schematics & Circuitry
