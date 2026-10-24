@@ -3,7 +3,7 @@ title: "cloudy"
 github: "https://github.com/t2ofaced/cloudy"
 description: "A custom designed 60% Keyboard that  usesnice nano v2 clone pro micro nrf52840 development board as mcu becuause it give me freedom of wireless kayboard this keyboard also includes 1 enoder and 1 display and it is fully rgb thanks to SK6812MINI-E SMD leds and its pcb is desigined in kicad and case in Onshape"
 created_at: "2026-09-09"
-total_time: "26h 36m"
+total_time: "26h 42m"
 ---
 
 # August 17, 2026: 5:00 PM - 6:00 PM
@@ -353,5 +353,14 @@ final one more rule check and manual review and done
 Uploaded .step of your entire assembly, including the pcb with the case and i was not able to lower the cost of this keeboard so , i will buy nice nano v2 myself which is around $8 so now my bom will be $124
 ![](https://fabricate.hackclub-assets.com/c153e77ca876c063d575440c3ea390ff88f2c3cbe12097099b0d0ff89a1ad5e4/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/d9ce0ba48f98d078bf9faacb92b1552f30f8a5ec2bfdc95c5284e91da786a2c6/image-png/image.png)
+
+**Total time spent: 6m**
+
+# October 24, 2026: Firmware Source
+<!-- fabricate:entry 1164 -->
+
+Hey, thanks for the feedback, Firmware source is here: https://github.com/t2ofaced/cloudycode (RMK project with keyboard.toml and vial.json, built via GitHub Actions). I have also added both files to my project repo
+
+![](https://fabricate.hackclub-assets.com/51b1c07ab9b3b9522850870ea9606c748b14e7331aab49f5b53b9ac4ce8174cc/image-png/image.png)
 
 **Total time spent: 6m**
